@@ -1,0 +1,41 @@
+---
+layout:post
+date:2021-03-10 110401 +0900
+title: "HiHello"
+---
+# 타조(대제목)
+
+## 위키백과,우리 모두의 백과사전
+
+볼드체: **타조**는 아프리카의 날지 못하는 새로 ㅇㅇㅇㅇㅅㅇ
+이텔릭체: *Struthio Camelus*
+# Header1
+## Header2  
+### Header3
+#### Header4
+##### Header5
+###### Header6
+
+*어원
+*특징
+*번식 및 산란
+*천적
+*알
+
+1.어원
+2.특징
+3.번식 및 산란
+
+
+ 설명을 쓰다가 'variable','_posts'ㅇㅅㅇ
+
+어떤 코드는 아래와 같다.
+
+...c
+#include ㅇㅅㅇ
+int main(){
+return 0;
+}
+....
+
+main
