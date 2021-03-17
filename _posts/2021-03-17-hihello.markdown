@@ -1,7 +1,8 @@
 ---
-layout:post
-date:2021-03-10 110401 +0900
-title: "HiHello"
+layout: post.
+title: "Hi Hello"
+date: 2021-03-10 110401 +0900
+categories: jekyll update
 ---
 # 타조(대제목)
 
