@@ -1,0 +1,6 @@
+<img src="https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg" srcset="https://assets.adidas.com/images/w_178,h_178,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 178w,
+https://assets.adidas.com/images/w_186,h_186,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 186w,
+https://assets.adidas.com/images/w_205,h_205,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 205w,
+https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 303w,
+https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 383w,
+https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/56ae940ad7b64508aaf833e7d9dd3cb2_9366/가젤.jpg 766w" sizes="(min-width: 960px) 25vw, (min-width: 600px) 33vw, 49vw" alt="originals Yellow 가젤" loading="eager" data-auto-id="product-card-image" class="product-card-image glass-product-card__image performance-item glass-product-card__primary-image" fetchpriority="high" data-inject_ssr_performance_instrument="">
